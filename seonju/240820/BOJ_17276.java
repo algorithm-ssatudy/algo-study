@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 //BOJ_17276 배열 돌리기
-public class Main {
+public class BOJ_17276 {
     static int[][] map;
     static int N;
     static int[][] n_map;

@@ -1,4 +1,3 @@
-package algo;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +6,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 //BOJ_1446 지름길
-public class  Main{
+public class  BOJ_1446{
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

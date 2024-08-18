@@ -2,8 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-//BOJ_1966 강의실
-public class Main {
+public class BOJ_1374 {
 
     static int max_count;
     static int N;

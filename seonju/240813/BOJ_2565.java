@@ -23,7 +23,7 @@ class Pair implements Comparable<Pair> {
 
 
 //겹치는 전선 구하면 복잡해 보여서 안겹치는 전선 쌍 구해서 총 전선 수에서 빼줬음
-public class Main {
+public class BOJ_2565 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int A = Integer.parseInt(br.readLine());    // 전선 개수

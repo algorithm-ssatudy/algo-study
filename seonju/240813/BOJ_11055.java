@@ -5,7 +5,7 @@ import java.sql.Array;
 import java.util.*;
 
 //BOJ_11055 가장 큰 증가하는 부분 수열
-public class Main {
+public class BOJ_11055 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());

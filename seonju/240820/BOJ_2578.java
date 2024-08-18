@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 //BOJ_2578 빙고
-public class Main {
+public class BOJ_2578 {
     static int[][] bingo;
     static int b_count;
     static StringTokenizer st;

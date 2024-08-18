@@ -6,8 +6,7 @@ import java.util.Queue;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-//BOJ_1966 프린터 큐
-public class Main {
+public class BOJ_1966 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine());    //테스트케이스
