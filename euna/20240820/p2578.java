@@ -26,7 +26,7 @@ public class p2578 {
 		int sol = 0;
 		int line_num = 0;
 		
-		outer:		//brea문을 한 번에 벗어나기 위한 라
+		outer:		//break문을 한 번에 벗어나기 위한 라벨
 		for(int i = 0; i < 5; i++) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			for(int j = 0; j<5;j++) {
