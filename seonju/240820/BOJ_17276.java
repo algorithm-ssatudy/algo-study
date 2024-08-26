@@ -72,7 +72,6 @@ public class BOJ_17276 {
                 map[i][j] = n_map[i][j];
             }
         }
-
     }
 
 
